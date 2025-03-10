@@ -82,3 +82,8 @@ header {
     margin-left: 40px;
     transition: .5s;
 }
+
+.navigation .btnLogin-popup:hover{
+    background: var(--branco);
+    color: var(--cor-principal);
+}
