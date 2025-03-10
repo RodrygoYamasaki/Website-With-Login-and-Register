@@ -33,3 +33,9 @@ header {
     justify-content: space-between;
     z-index: 99;
 }
+
+.logo {
+    font-size: 2em;
+    color: var(--branco);
+    user-select: none;
+}
