@@ -56,7 +56,7 @@ header {
     bottom: -6px;
     width: 100%;
     height: 3px;
-    background: #fff;
+    background: var(--branco);
     border-radius: 5px;
     transform-origin: right;
     transform: scaleX(0);
@@ -72,12 +72,12 @@ header {
     width: 130px;
     height: 50px;
     background-color: transparent;
-    border: 2px solid #fff;
+    border: 2px solid var(--branco);
     outline: none;
     border-radius: 6px;
     cursor: pointer;
     font-size: 1.1em;
-    color: #fff;
+    color: var(--branco);
     font-weight: 500;
     margin-left: 40px;
     transition: .5s;
