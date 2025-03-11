@@ -192,3 +192,11 @@ header {
     font-weight: 600;
     pad: 0 35px 0 5px;
 }
+
+.input-box .icon {
+    position: absolute;
+    right: 8px;
+    font-size: 1.2em;
+    color: #162938;
+    line-height: 57px;
+}
