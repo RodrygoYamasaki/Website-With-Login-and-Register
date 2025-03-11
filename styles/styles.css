@@ -203,7 +203,7 @@ header {
 
 .remember-forgot {
     font-size: .9em;
-    color: #162938;
+    color: var(--cor-principal);
     font-weight: 500;
     margin: -15px 0 15px;
     display: flex;
@@ -211,6 +211,11 @@ header {
 }
 
 .remember-forgot label input {
-    accent-color: #162938;
+    accent-color: var(--cor-principal);
     margin-right: 3px;
+}
+
+.remember-forgot a {
+    color: var(--cor-principal);
+    text-decoration: none;
 }
