@@ -127,3 +127,8 @@ header {
     transition: none;
     transform: translateX(-400px);
 }
+
+.wrapper.active .form-box.register {
+    transition: transform .18s ease;
+    transform: translateX(0);
+}
