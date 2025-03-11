@@ -149,3 +149,9 @@ header {
     cursor: pointer;
     z-index: 1;
 }
+
+.form-box h2 {
+    font-size: 2em;
+    color: #162938;
+    text-align: center;
+}
