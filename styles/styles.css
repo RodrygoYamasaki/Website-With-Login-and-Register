@@ -219,3 +219,7 @@ header {
     color: var(--cor-principal);
     text-decoration: none;
 }
+
+.remember-forgot a:hover {
+    text-decoration: underline;
+}
