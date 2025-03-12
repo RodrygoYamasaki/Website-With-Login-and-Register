@@ -227,12 +227,12 @@ header {
 .btn {
     width: 100%;
     height: 45px;
-    background: #162938;
+    background: var(--cor-principal);
     border: none;
     outline: none;
     border-radius: 6px;
     cursor: pointer;
     font-size: 1em;
-    color: #fff;
+    color: var(--branco);
     font-weight: 500;
 }
