@@ -11,3 +11,7 @@ registerLink.addEventListener("click", ()=> {
 loginLink.addEventListener("click", ()=> {
     wrapper.classList.remove("active");
 })
+
+btnPopup.addEventListener("click", ()=> {
+    wrapper.classList.add("active-popup");
+})
