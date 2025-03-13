@@ -9,4 +9,3 @@ Este é um projeto simples de um site com funcionalidades de login e registro de
 - **🔄 Interatividade**: As telas de login e registro podem ser alternadas dinamicamente.
 - **📱 Design Responsivo**: O layout foi feito para ser visualizado de forma adequada em dispositivos móveis e desktop.
 
-## 🗂️ Estrutura do Projeto
