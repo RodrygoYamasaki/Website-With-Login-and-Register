@@ -22,3 +22,8 @@ Este é um projeto simples de um site com funcionalidades de login e registro de
 1. Clone este repositório para sua máquina local.
 2. Abra o arquivo index.html em seu navegador preferido.
 3. 🎉 Pronto! O site estará disponível para visualização e teste local.
+
+## 💡 Como Funciona:
+
+- A página inicial carrega com o formulário de Login.
+- Caso o usuário ainda não tenha uma conta, ele pode clicar no link "Register" para acessar o formulário de Registro.
