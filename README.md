@@ -27,3 +27,5 @@ Este é um projeto simples de um site com funcionalidades de login e registro de
 
 - A página inicial carrega com o formulário de Login.
 - Caso o usuário ainda não tenha uma conta, ele pode clicar no link "Register" para acessar o formulário de Registro.
+- Após preencher o formulário de login ou registro, o usuário pode submeter os dados.
+- O comportamento real de autenticação (como a verificação dos dados no backend) deve ser implementado posteriormente com a integração de um banco de dados ou API de autenticação.
