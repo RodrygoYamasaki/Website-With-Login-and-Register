@@ -18,3 +18,6 @@ Este é um projeto simples de um site com funcionalidades de login e registro de
 - **Responsividade**: Design adaptável a diferentes tamanhos de tela utilizando `meta viewport`.
 
 ## 🚀 Como Rodar o Projeto Localmente
+
+1. Clone este repositório para sua máquina local.
+
