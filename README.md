@@ -10,3 +10,9 @@ Este é um projeto simples de um site com funcionalidades de login e registro de
 - **📱 Design Responsivo**: O layout foi feito para ser visualizado de forma adequada em dispositivos móveis e desktop.
 
 ## 🛠️ Tecnologias Utilizadas
+
+- **HTML5**: Estruturação semântica do conteúdo da página.
+- **CSS3**: Estilização da interface com design moderno e responsivo.
+- **JavaScript**: Interatividade na troca de telas de login e registro.
+- **Ionicons**: Biblioteca de ícones usados nos formulários (com a tag `<ion-icon>`).
+- **Responsividade**: Design adaptável a diferentes tamanhos de tela utilizando `meta viewport`.
