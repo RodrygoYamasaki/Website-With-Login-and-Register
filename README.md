@@ -16,3 +16,5 @@ Este é um projeto simples de um site com funcionalidades de login e registro de
 - **JavaScript**: Interatividade na troca de telas de login e registro.
 - **Ionicons**: Biblioteca de ícones usados nos formulários (com a tag `<ion-icon>`).
 - **Responsividade**: Design adaptável a diferentes tamanhos de tela utilizando `meta viewport`.
+
+## 🚀 Como Rodar o Projeto Localmente
